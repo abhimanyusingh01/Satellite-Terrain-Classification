@@ -12,3 +12,5 @@ Then, we can see the images before we train on them. The second file we are load
 They can be one of 4: barren land, trees, grassland and other. Each row in the file looks like this [1,0,0,0], where only one of the 4 value is 1.
 If it is one, then it is that class respective to the order I showed above. If it was the above values, the image is a picture of barren land.
 If it was [0,1,0,0], then it would be trees. If it was [0,0,1,0],then it would be grassland and so on.
+
+My Work on the dataset:- https://www.kaggle.com/abhimanyuchauhan/satellite-image-classification?scriptVersionId=31652883
