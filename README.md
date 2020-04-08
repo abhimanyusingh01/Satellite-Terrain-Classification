@@ -16,5 +16,7 @@ If it was [0,1,0,0], then it would be trees. If it was [0,0,1,0],then it would b
 My Work on the dataset:- https://www.kaggle.com/abhimanyuchauhan/satellite-image-classification?scriptVersionId=31652883
 
 Code with output:- Terrain Classification.ipynb
+
+
 Only Code:- Satelitte Image Classification.ipynb
 
